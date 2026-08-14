@@ -9,9 +9,9 @@ const ALC_CONFIG = {
 
     links: {
         discord: "https://discord.gg/yourserver",
-        whatsapp: "https://wa.me/628xxxxxxxxxx",
+        whatsapp: "https://chat.whatsapp.com/CFvR8G35mq09Wf6GbQTNqU",
         instagram: "https://instagram.com/alc.toe3",
-        tiktok: "https://tiktok.com/@alc.toe3"
+        tiktok: "https://tiktok.com/@antarlintascargo_"
     },
 
     recruitment: {
